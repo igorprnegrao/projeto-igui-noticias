@@ -1,2 +1,2 @@
 # projeto-igui-noticias
- site de noticias - igui noticias
+ site de notícias - igui notícias
